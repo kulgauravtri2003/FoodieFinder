@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url =https://foodiefinder-0eht.onrender.com
+export const url ='https://foodiefinder-0eht.onrender.com'
